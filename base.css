@@ -1,0 +1,36 @@
+footer{
+    background-color: black;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+}
+
+@media (max-width: 768px) {
+.cards {
+    flex-direction: column;
+}
+.fontbold{
+    color: white !important;
+}
+}
+
+span.fontbold {
+    color: white;
+}
+
+body.cadastro {
+    background-image: url('img/FundoMadeira.jpg') ;
+    background-size: 100%;
+}
+.text-center{
+    color: white;
+}
+.form-label{
+    color: white;
+    
+}
+.form-control{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
