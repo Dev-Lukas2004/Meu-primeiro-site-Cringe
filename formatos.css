@@ -21,8 +21,8 @@ span.fontbold {
 }
 
 body.cadastro {
-    background-image: url('img/FundoMadeira.jpg') ;
-    background-size: 100%;
+    background-image: url(FundoF.jpg);
+    background-size: cover;
 }
 .text-center{
     color: white;
@@ -33,4 +33,27 @@ body.cadastro {
 }
 .form-control{
     box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.logotipo{
+    width: 22%;
+    height: 21%;
+    display: block;
+    margin: 0 auto; /* Centralização da logotipo */
+}
+.nav-link{
+    transform: translateX(1180%);
+}
+.row {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+.btn-primary {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
 }
