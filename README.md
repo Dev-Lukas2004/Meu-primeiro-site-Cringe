@@ -11,7 +11,7 @@ Bootstrap: Framework para o design responsivo.
 JavaScript: Interações dinâmicas na página.
 Banco de Dados: Armazenamento de receitas e dados dos usuários.
 Instalação e Uso
-Clone o repositório: git clone https://github.com/Dev-Lukas2004/receita-facil.git
+Clone o repositório: git clone https://github.com/Dev-Lukas2004/Meu-primeiro-site-Cringe.git
 Abra o arquivo home.html no seu navegador.
 Explore as diferentes seções e funcionalidades disponíveis.
 Contribuição
