@@ -63,12 +63,12 @@ body {
 /* Estilos personalizados */
 
 body.fundo {
-    background-image: url('fundoreceitas.jpg');
+    background-image: url('./img/fundofogo.jpg');
     background-size: cover;
 }
 
 main{
-    background: url("panela.jpg") no-repeat center center;
+    background: url("./img/panela.jpg") no-repeat center center;
     background-size: cover;
     height: 92vh;
 
@@ -125,4 +125,19 @@ h3.text-center {
 }
 .text-center{
     color: #ffc800 !important;
+}
+
+body.cadastro {
+    background-image: url(./img/FundoF.jpg);
+    background-size: cover;
+}
+.text-center{
+    color: white;
+}
+.form-label{
+    color: white;
+    
+}
+.form-control{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
