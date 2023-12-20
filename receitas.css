@@ -123,3 +123,6 @@ h3.text-center {
         2px 2px 0 #000;
     margin-top: 0vh; /* Margem superior em relação à altura da viewport */
 }
+.text-center{
+    color: #ffc800 !important;
+}
